@@ -1,0 +1,21 @@
+[submodule "neft_godot"]
+	path = neft_godot
+	url = git@github.com:leopnt/neft_godot.git
+[submodule "street_club_2"]
+	path = street_club_2
+	url = git@github.com:leopnt/street_club_2.git
+[submodule "godot-2d-boat-model"]
+	path = godot-2d-boat-model
+	url = git@github.com:leopnt/godot-2d-boat-model.git
+[submodule "diver_of_steel"]
+	path = diver_of_steel
+	url = git@github.com:leopnt/diver_of_steel.git
+[submodule "ksept_recorder"]
+	path = ksept_recorder
+	url = git@github.com:leopnt/ksept_recorder.git
+[submodule "submarine.io"]
+	path = submarine.io
+	url = git@github.com:leopnt/submarine.io.git
+[submodule "godot-2d-plane-model"]
+	path = godot-2d-plane-model
+	url = git@github.com:leopnt/godot-2d-plane-model.git
